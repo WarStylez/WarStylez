@@ -37,6 +37,8 @@ For now, I am working on a few projects.
 
 Currenly Worked On Projects:
 
+<img align="left" alt="World war 4" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />3D World War Game - Still private
+
 <img align="left" alt="Warbot bot" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />[WarBot discord bot - Owner](https://discordbotlist.com/bots/warbot)
 
 
