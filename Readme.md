@@ -1,4 +1,4 @@
-<img src="https://github.com/WarStylez/WarStylez/blob/main/Profile WarStylez - CC APPLIED - WarStylez cc.png.jpg?raw=true" width="25px">
+![alt text](https://github.com/WarStylez/WarStylez/blob/main/Profile WarStylez - CC APPLIED - WarStylez cc.png.jpg?raw=true)
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://steamcommunity.com/id/WarStylez">
