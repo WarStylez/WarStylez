@@ -1,28 +1,42 @@
-![This is an image](https://github.com/WarStylez/WarStylez/blob/main/War.png)
+<br />
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="center">
+  <img width="700" height="460" src="https://github.com/WarStylez/WarStylez/blob/main/War.png">
+</p>
+
+
+<h3><img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  👨‍🔧 WarStylez | Py/Cpp Developer  | 🕶 Israel <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+
+
 <a href="https://steamcommunity.com/id/WarStylez">
   <img align="left" alt="WarStylez's Steam" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
 </a>
+
 <a href="https://open.spotify.com/user/lf88s6uxazoudf7epow21v0yv?si=fe9ff178eb6c479d&nd=1">
   <img align="left" alt="WarStylez's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</p>
 </a>
+
 
 <br />
 
+<h2 align="center">👦🏻 About me</h2>
 
+Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-Hello, My name is WarStylez. I like to develope and make life more easy and efficent using coding and developing. 
+My name is WarStylez. I like to develope and make life more easy and efficent using coding and developing. 
 I am currenly part of the IDF's cyber program ( "Magshimim" ). 
 
-For now, I am working on a few projects.
+I really like to watch formula 1 races 🏎️ and going to the gym 🏋️.
 
+I have a few templates listed in my profile, you can use them freely.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+For now, I am working on a few projects ( **Some of them are listed below** ).
 
+</p>
 
-**Languages and tools:**  
+<h2 align="center">Languages and tools:</h2>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -33,17 +47,41 @@ For now, I am working on a few projects.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+</p>
 
 
-Currenly Worked On Projects:
+
+<h2 align="center">🏆 Goals </h2>
+
+
+ * [x] Complete overhaul to readme file.
+ * [ ] Add more templates.
+ * [ ] Finish learning assembly.
+ * [ ] Finish learning Java.
+ * [ ] Finish my 3D World War game.
+
+</p>
+
+   
+<br />
+
+<h2 align="center">⚙️ Currently working on</h2>
 
 <img align="left" alt="World war 4" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />3D World War Game - Almost ready!
 
 <img align="left" alt="Warbot bot" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />[WarBot discord bot - Owner](https://discordbotlist.com/bots/warbot)
 
 
-<img align="left" alt="Qury bot" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />[Qury discord bot - Developer](https://discordbotlist.com/bots/qury)
+<img align="left" alt="Qury bot" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />[Qury discord bot - Developer](https://discordbotlist.com/bots/qury)</p>
 
+<p align="center">If you want to join one of the projects or want to invite me to work on one contact me🔎</p>
+</p>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 
 
