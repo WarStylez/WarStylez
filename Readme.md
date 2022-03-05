@@ -1,4 +1,4 @@
-<img align="middle" alt="PNG" src="https://imgur.com/a/beQH92g" width="500" height="320" />
+![Photo](https://imgur.com/a/beQH92g)
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://steamcommunity.com/id/WarStylez">
