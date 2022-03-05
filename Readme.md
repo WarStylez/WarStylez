@@ -1,4 +1,4 @@
-![This is an image](WarStylez/War.png)
+![This is an image](https://github.com/WarStylez/WarStylez/blob/main/War.png)
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://steamcommunity.com/id/WarStylez">
