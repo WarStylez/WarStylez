@@ -5,19 +5,8 @@
 </p>
 
 
-<h3><img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  👨‍🔧 WarStylez | Py/Cpp Developer  | 🕶 Israel <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   👨‍🔧 WarStylez | Py/Cpp Developer  | 🕶 Israel <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" ></h3>
 </div>
-
-
-<a href="https://steamcommunity.com/id/WarStylez">
-  <img align="left" alt="WarStylez's Steam" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
-</a>
-
-<a href="https://open.spotify.com/user/lf88s6uxazoudf7epow21v0yv?si=fe9ff178eb6c479d&nd=1">
-  <img align="left" alt="WarStylez's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</p>
-</a>
-
 
 <br />
 
