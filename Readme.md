@@ -8,7 +8,6 @@
 <h3><img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   👨‍🔧 WarStylez | Py/Cpp Developer  | 🕶 Israel <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" ></h3>
 </div>
 
-[Linkedin](https://www.linkedin.com/in/liron-zherebovich/)
 <br />
 
 <h2 align="center">👦🏻 About me</h2>
