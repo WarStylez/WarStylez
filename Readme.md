@@ -17,8 +17,6 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 My name is WarStylez. I like to develope and make life more easy and efficent using coding and developing. 
 I am currenly part of the israeli ministry of defense's cyber program ( "Magshimim" ). 
 
-I really like to watch formula 1 races 🏎️ and going to the gym 🏋️.
-
 I have a few templates listed in my profile, you can use them freely.
 
 For now, I am working on a few projects ( **Some of them are listed below** ).
